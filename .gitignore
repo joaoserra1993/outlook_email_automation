@@ -1,0 +1,8 @@
+email_sender/formal_email.py
+email_sender/formal_email.spec
+email_sender/informal_email.py
+email_sender/informal_email.spec
+email_sender/email_sender_0.1.py
+email_sender/sintarq-icon.ico
+build/formal_email
+build/informal_email
